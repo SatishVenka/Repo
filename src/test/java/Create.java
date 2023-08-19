@@ -5,7 +5,7 @@ public class Create {
 	@Test
 	public void create()
 	{
-		System.out.println("hello---create an account");
+		System.out.println("----create an account---------");
 	}
 
 }
